@@ -89,10 +89,10 @@
 
 ---
 
-## Visit U Matter [here](https://umatter.netlify.app/ "U Matter")
+
 
 ---
 
-#### design and develop by [**Jericho Bantiquete**](https://twitter.com/monciego)
+#### design and develop by Gourab
 
 #### powered by HTML5, CSS3 and Vanilla JavaScript
