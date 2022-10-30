@@ -1,6 +1,6 @@
 # [U Matter Meditation App](https://umatter.netlify.app/ "U Matter")
 
-### [**U matter**](https://umatter.netlify.app/ "U Matter") is a meditation and relaxation app that designed to take you some moment to relax and breathe. U Matter mission is to help you find your inner peace and improve your mental health.
+### [**U matter**](https://dhyanavvash.netlify.app/ "U Matter") is a meditation and relaxation app that designed to take you some moment to relax and breathe. U Matter mission is to help you find your inner peace and improve your mental health.
 
 ## **How can we help you?**
 
@@ -92,7 +92,7 @@
 
 
 ---
-## Visit U Matter [here](https://ubiquitous-truffle-78ccef.netlify.app "U Matter")
+## Visit U Matter [here](https://dhyanavvash.netlify.app/ "U Matter")
 #### design and develop by Gourab
 
 #### powered by HTML5, CSS3 and Vanilla JavaScript
